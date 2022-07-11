@@ -13,8 +13,7 @@ Discente:  Paola do Nascimento
 ## 📑 Modelagens do Projeto
 
 Modelagem de entidade relacionamento (MER)
-![image](https://user-images.githubusercontent.com/88107960/178291258-ad1225d9-7649-4a9d-b689-e0343ddff071.png)
-
+![image](https://user-images.githubusercontent.com/88107960/178291851-382a97d7-c869-462a-9738-66a158d276c2.png)
 
 Modelagem relacional (MR)
 
