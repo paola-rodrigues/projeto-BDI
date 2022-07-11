@@ -16,5 +16,6 @@ Modelagem de entidade relacionamento (MER)
 ![image](https://user-images.githubusercontent.com/88107960/178291851-382a97d7-c869-462a-9738-66a158d276c2.png)
 
 Modelagem relacional (MR)
+![image](https://user-images.githubusercontent.com/88107960/178291994-971ab8eb-d65e-4529-95d5-210ce53c8579.png)
 
 
