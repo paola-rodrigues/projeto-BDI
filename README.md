@@ -10,7 +10,7 @@ Discente:  Paola do Nascimento
 ## ⚙️ Linguagem SQL
  - MariaDB
 
-## 📑 Modelagens do Projeto
+## 📑 Modelagens do Projeto Oficina Mecânica
 
 Modelagem de entidade relacionamento (MER)
 
