@@ -5,7 +5,7 @@ Instituto Federal de Pernambuco  - Campus Paulista
 
 Diciplina: Banco de Dados I
 
-Discente:  Paola do Nascimento
+Discente:  Paola do Nascimento e Ewerton Felipe Pedrosa
 
 ## ⚙️ Linguagem SQL
  - MariaDB
