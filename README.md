@@ -49,7 +49,7 @@ para conclusão dos trabalhos. Uma OS pode ser composta de vários ítens
 serviço. Uma OS pode envolver vários tipos de peças e um mesmo tipo
 de peça pode ser necessária em várias ordens de serviço.
 
---------------Perguntas/Relatório:-------------------------------------------
+## Perguntas/Relatório:
 
 - Quais são os bairro de cada funcionário? /Relatório de funcionário com seu bairros;
 - Qual a quantidade de peças comprada por cada cliente pessoa física/Relatório com a quantidade de peças compradas pelos clientes pessoa física;
