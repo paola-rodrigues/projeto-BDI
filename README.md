@@ -26,7 +26,7 @@ Discente:  Paola do Nascimento e Ewerton Felipe Pedrosa
 
 ## Minimundo Oficina Mecânica:
 
-- Detalhes o minimundo:
+- Detalhando o minimundo:
 Local onde se consertam automóveis (oficina mecânica) ou um local onde se consertam outros tipos de equipamentos mecânicos e eletrônicos.
 - modelo lógico (Diagrama MER) e modelo físico (Diagrama MR):
 Sistema de controle e gerenciamento de execução de ordens de serviço em
